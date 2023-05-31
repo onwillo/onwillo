@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Williams, pero para mis amigos soy El Willo</h1>
 <h3 align="center">Lo que impulsa al Williams en su trabajo es su pasión por ayudar a las personas a alcanzar su máximo potencial y a crear empresas exitosas en un entorno altamente competitivo y tecnológicamente avanzado. Cree firmemente en el poder del aprendizaje continuo y la mejora personal, y se esfuerza por transmitir esa pasión a aquellos con quienes trabaja.Con más de 25 años de experiencia como coach empresarial, El Willo ha trabajado con una amplia variedad de clientes, desde emprendedores hasta altos ejecutivos de empresas multinacionales. <br><br> Si estás buscando un coach empresarial y docente en tecnologías comprometido en ayudarte a alcanzar tus metas profesionales y aprovechar al máximo las oportunidades que ofrece la tecnología, no busques más, <b>Williams Sambony</b> es el aliado perfecto para guiarte en tu camino hacia el éxito empresarial y personal.</h3>
 
+<h2>Repositorios</><br>
+ <a href="https://github.com/onwillo/estructures_dades">
+    <button>Estructura de Datos</button>
+  </a><br>
+  </a> <a href="https://github.com/onwillo/estructures_Dataframe">
+    <button>Estructura DataFrames</button><br>
+  </a><a href="https://github.com/onwillo/estructures_control">
+    <button>Estructura de Control</button></a>
+
+  <h2>Acerca de mi<h2>
+
 - 🔭 I’m currently working on [Proyectos Personales](www.onwillo.com)
 
 - 🌱 I’m currently learning **Ciencia de Datos y mil cosas más**
