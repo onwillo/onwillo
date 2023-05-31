@@ -8,7 +8,11 @@
   </a> <a href="https://github.com/onwillo/estructures_Dataframe">
     <button>Estructura DataFrames</button><br>
   </a><a href="https://github.com/onwillo/estructures_control">
-    <button>Estructura de Control</button></a>
+    <button>Estructura de Control</button></a><br>
+    <a href="https://github.com/onwillo/estructures_Dataframe/blob/main/Tasca%20M6%20T01.ipynb">
+    <button>Tasca Sprint 6</button></a>
+    
+    
 
   <h2>Acerca de mi<h2>
 
